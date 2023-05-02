@@ -1,0 +1,5 @@
+@media screen and (min-width: 568px) and (max-width:992px) {
+    section#login {
+        width: 70vw;
+    }
+}
