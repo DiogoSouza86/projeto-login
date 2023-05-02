@@ -26,7 +26,7 @@ main {
 section#login {
     background-color: white;
     width: 200px;
-    height: 300px;
+    height: 500px;
     border-radius: 20px;
     position: absolute;
     top: 50%;
@@ -41,7 +41,7 @@ section#login > div#imagem {
     background: #5f2c82 url(../imagens/metal.jpg) no-repeat;
     background-size: cover;
     background-position: ;
-    height: 120px;
+    height: 150px;
 }
 
 section#login > div#formulario {
