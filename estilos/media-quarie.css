@@ -52,4 +52,12 @@
     div#formulario > p {
         font-size: 1.2em;
     }
+
+    form > input[type=submit] {
+        margin-top: 8px;
+    }
+
+    form > a.botao {
+        margin-top: 8px;
+    }
 }
