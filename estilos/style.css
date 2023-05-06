@@ -81,7 +81,7 @@ form > div.campo > span {
 
  div.campo > input {
     width: calc(100% - 40px);
-    transform: translate(12px, -9.5px);
+    transform: translate(12px, -9.8px);
     padding: 5px;
     background-color: #8bf6f2;
     font-size: 1em;
